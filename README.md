@@ -11,7 +11,7 @@ About this project: Next.js is a minimalistic framework for server-rendered Reac
 
 
 
-![Contentstack-Nextjs-starter-app](/public/starter-app.png)
+![Contentstack-Nextjs-starter-app](https://github.com/manuelveladojr/manu-contentstack-nextjs-starter-app/blob/master/public/starter-app.png)
 
 ## Live Demo
 
