@@ -1,4 +1,4 @@
-[![Contentstack Logo](/public/contentstack-readme-logo.png)](https://github.com/manuelveladojr/manu-contentstack-nextjs-starter-app/raw/master/)
+[![Contentstack Logo](https://github.com/manuelveladojr/manu-contentstack-nextjs-starter-app/raw/master/public/contentstack-readme-logo.png)
 
 
 
